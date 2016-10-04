@@ -1,6 +1,6 @@
 {
   "name": "Depth Estimation using Stereo Image Pair",
   "tagline": "",
-  "body": "### First Presentation\r\n[Overview Presentation](https://drive.google.com/file/d/0ByB15PfVXhlzdk42RUtMTFBBalk/view?usp=sharing)",
+  "body": "## Abstract\r\nThe Objective of the project is to compute depth maps as derived from stereo matching using 2D Delaunay Triangulation and Convolutional neural network. Compare the performance and efficiency of the algorithms on benchmark data-sets Stereo Evaluation 2012 and Stereo Evaluation 2015.\r\n## Algorithms\r\n### Convolutional Neural Nets\r\nConvolutional Neural Nets have been applied recently for depth estimation from single image and stereo pair producing state of the art results in both the tasks. However, two major limitation of CNN are the amount of training data required to produce accurate result and the training time required by the algorithm.\r\n### 2D Delaunay Triangulation\r\nDelaunay Based Depth Estimation uses edge detectors which are used as supporting points to compute triangular surfaces. The limitation of the algorithms primarily arises from the accuracy obtained from the method. \r\n\r\n## Presentations\r\n[Overview Presentation](https://drive.google.com/file/d/0ByB15PfVXhlzdk42RUtMTFBBalk/view?usp=sharing)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
